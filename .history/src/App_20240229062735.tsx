@@ -1,0 +1,17 @@
+import './App.css'
+import Alert from './Components/alert'
+// import ListGroup from './Components/ListGroup';
+// import ShoppingList from './Components/Products';
+
+function App() {
+  let items = ["banana", "orange", "apple", "strawberry", "pineapple"];
+  return (
+    <div >
+      <Alert text="hello there/>
+      
+
+      </div>
+  )
+}
+
+export default App
